@@ -66,6 +66,6 @@ The smell of flowers brings back memories.
 
 ## Thanks
 
-Thank you to [Ginger Software](http://www.gingersoftware.com/) for such awesome service. Hope they will keep it free :)
+Thank you for [Ginger Software](http://www.gingersoftware.com/) for such awesome service. Hope they will keep it free :)
 
 Thanks to @subosito for this inspriration https://github.com/subosito/gingerice (Ruby Gem).
